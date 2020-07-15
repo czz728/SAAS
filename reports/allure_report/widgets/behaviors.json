@@ -1,0 +1,48 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "1e730b97c3f9c10bbb0d835f6b126109",
+    "name" : "预约页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "c989c976cd945ec530630a56785a849a",
+    "name" : "会员页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "9440bef697cdc316a7c5b53d7b497ab9",
+    "name" : "概览页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "196a47f4bc9ccf70a76e192db2ed0ecb",
+    "name" : "潜客页面",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

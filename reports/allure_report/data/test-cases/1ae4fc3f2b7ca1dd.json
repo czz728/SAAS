@@ -1,0 +1,102 @@
+{
+  "uid" : "1ae4fc3f2b7ca1dd",
+  "name" : "服务挂单",
+  "fullName" : "testcases.test_member.TestMember#test_billing_serve_resting",
+  "historyId" : "17f7ce8825de58d1a4517e5c8f829871",
+  "time" : {
+    "start" : 1594708373899,
+    "stop" : 1594708373899,
+    "duration" : 0
+  },
+  "description" : "step1:初始化页面",
+  "descriptionHtml" : "<p>step1:初始化页面</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('testcases\\\\test_member.py', 54, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1594708344647,
+      "stop" : 1594708372256,
+      "duration" : 27609
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1594708373936,
+      "stop" : 1594708373936,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "会员页面"
+  }, {
+    "name" : "story",
+    "value" : "服务开单"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_member"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMember"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HB8BF3D"
+  }, {
+    "name" : "thread",
+    "value" : "13508-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_member"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_data",
+    "value" : "{'mobile': '13141219919', 'expected': '待付款', 'case_id': 1, 'title': '挂单成功'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "1ae4fc3f2b7ca1dd.json",
+  "parameterValues" : [ "{'mobile': '13141219919', 'expected': '待付款', 'case_id': 1, 'title': '挂单成功'}" ]
+}

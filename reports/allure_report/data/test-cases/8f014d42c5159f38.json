@@ -1,0 +1,102 @@
+{
+  "uid" : "8f014d42c5159f38",
+  "name" : "新增潜客",
+  "fullName" : "testcases.test_overview.TestOverview#test_potentialCustomer",
+  "historyId" : "a7845ab848e49b780ce8dadfb0a73d3e",
+  "time" : {
+    "start" : 1594708373926,
+    "stop" : 1594708373926,
+    "duration" : 0
+  },
+  "description" : "step1:初始化页面",
+  "descriptionHtml" : "<p>step1:初始化页面</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('testcases\\\\test_overview.py', 208, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1594708344647,
+      "stop" : 1594708372256,
+      "duration" : 27609
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1594708373936,
+      "stop" : 1594708373936,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "概览页面"
+  }, {
+    "name" : "story",
+    "value" : "待办事项"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_overview"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOverview"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HB8BF3D"
+  }, {
+    "name" : "thread",
+    "value" : "13508-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_overview"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test_data",
+    "value" : "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "8f014d42c5159f38.json",
+  "parameterValues" : [ "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}" ]
+}

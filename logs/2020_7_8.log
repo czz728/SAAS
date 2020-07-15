@@ -1,0 +1,12 @@
+2020-07-08 11:45:17,024 -- [basepage.py-->visible_least_wait-->line:129] - DEBUG: 元素定位成功
+2020-07-08 17:11:31,272 -- [basepage.py-->visible_least_wait-->line:129] - DEBUG: 元素定位成功
+2020-07-08 17:11:38,363 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_11_37_潜客设置.png
+2020-07-08 17:11:39,376 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_11_38_潜客设置.png
+2020-07-08 17:11:39,792 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_11_39_提示信息.png
+2020-07-08 17:21:34,014 -- [basepage.py-->visible_least_wait-->line:129] - DEBUG: 元素定位成功
+2020-07-08 17:21:41,869 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_21_41_潜客设置.png
+2020-07-08 17:21:42,284 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_21_41_提示信息.png
+2020-07-08 17:32:43,360 -- [basepage.py-->visible_least_wait-->line:129] - DEBUG: 元素定位成功
+2020-07-08 17:33:12,080 -- [basepage.py-->visible_only_wait-->line:113] - ERROR: 在用<<xpath>>方法定位<<//*[@class="     el-message__content"]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-08 17:33:12,480 -- [basepage.py-->screen_shot-->line:197] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_8\17_33_12.png
+2020-07-08 17:40:58,807 -- [basepage.py-->visible_least_wait-->line:129] - DEBUG: 元素定位成功

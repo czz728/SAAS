@@ -1,0 +1,10 @@
+2020-07-13 09:30:45,635 -- [basepage.py-->visible_only_wait-->line:118] - ERROR: 在用<<xpath>>方法定位<<//*[@class="product-footerlist clearfix"]/li[contains(text(),"10：00")]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-13 09:30:46,033 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_13\9_30_45.png
+2020-07-13 09:31:09,476 -- [basepage.py-->visible_only_wait-->line:118] - ERROR: 在用<<xpath>>方法定位<<//*[@class="product-footerlist clearfix"]/li[contains(text(),"10：00")]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-13 09:31:09,891 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_13\9_31_9.png
+2020-07-13 09:37:32,243 -- [basepage.py-->visible_only_wait-->line:118] - ERROR: 在用<<xpath>>方法定位<<//*[@class="product-footerlist clearfix"]/li[contains(text(),"10：00")]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-13 09:37:32,637 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_13\9_37_32.png
+2020-07-13 09:37:56,172 -- [basepage.py-->visible_only_wait-->line:118] - ERROR: 在用<<xpath>>方法定位<<//*[@class="product-footerlist clearfix"]/li[contains(text(),"10：00")]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-13 09:37:56,568 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_13\9_37_56.png
+2020-07-13 10:13:18,172 -- [basepage.py-->visible_only_wait-->line:118] - ERROR: 在用<<xpath>>方法定位<<//*[@class="product-footerlist clearfix"]/li[contains(text(),"10：00")]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-13 10:13:18,561 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_13\10_13_18.png

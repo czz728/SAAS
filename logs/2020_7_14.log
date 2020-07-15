@@ -1,0 +1,2 @@
+2020-07-14 14:30:13,179 -- [basepage.py-->visible_only_wait-->line:115] - ERROR: 在用<<xpath>>方法定位<<//*[text()="发券中心"]/../following-sibling::div/button[1]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-14 14:30:13,590 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_14\14_30_13.png

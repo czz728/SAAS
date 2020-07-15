@@ -1,0 +1,2 @@
+2020-07-10 16:27:56,169 -- [basepage.py-->presence_only_wait-->line:70] - ERROR: 在用<<xpath>>方法定位<<//*[@class="el-message__content"]>>元素时失败==>>检查页面元素是否正确或换其他定位方式
+2020-07-10 16:27:56,602 -- [basepage.py-->screen_shot-->line:207] - INFO: 页面截图文件保存在：F:\AUTO\saas\screenshot\2020_7_10\16_27_56.png

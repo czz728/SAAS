@@ -1,0 +1,309 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_appointment",
+      "children" : [ {
+        "name" : "TestAppointment",
+        "children" : [ {
+          "name" : "锁定时间",
+          "uid" : "4c436310d9c0cc3e",
+          "parentUid" : "ac8ae0f4e722a04b0f9fa949ebf8f946",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708344639,
+            "stop" : 1594708344639,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设置潜客参数",
+          "uid" : "e3b432478277f983",
+          "parentUid" : "ac8ae0f4e722a04b0f9fa949ebf8f946",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708344643,
+            "stop" : 1594708344643,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ac8ae0f4e722a04b0f9fa949ebf8f946"
+      } ],
+      "uid" : "098a2f5e715d43ba3df80512cf82aa63"
+    }, {
+      "name" : "test_marketing",
+      "children" : [ {
+        "name" : "TestMaketing",
+        "children" : [ {
+          "name" : "test_Send_ticket_center",
+          "uid" : "79b559fc9d897d2f",
+          "parentUid" : "a41c23a4eb68078327bfdeaf1e9222c5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594708372256,
+            "stop" : 1594708373894,
+            "duration" : 1638
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a41c23a4eb68078327bfdeaf1e9222c5"
+      } ],
+      "uid" : "dca6670271341b76f030f39ec70b0488"
+    }, {
+      "name" : "test_member",
+      "children" : [ {
+        "name" : "TestMember",
+        "children" : [ {
+          "name" : "服务收款",
+          "uid" : "6cf3a43254f14d05",
+          "parentUid" : "7c125b7a529be43b75bf6cf743ada831",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373896,
+            "stop" : 1594708373896,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'mobile': '13141219919', 'expected': '已完成', 'case_id': 1, 'title': '开单成功'}" ]
+        }, {
+          "name" : "服务挂单",
+          "uid" : "1ae4fc3f2b7ca1dd",
+          "parentUid" : "7c125b7a529be43b75bf6cf743ada831",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373899,
+            "stop" : 1594708373899,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'mobile': '13141219919', 'expected': '待付款', 'case_id': 1, 'title': '挂单成功'}" ]
+        }, {
+          "name" : "产品收款",
+          "uid" : "a14bb39109332846",
+          "parentUid" : "7c125b7a529be43b75bf6cf743ada831",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373901,
+            "stop" : 1594708373901,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'mobile': '13141219919', 'expected': '已完成', 'case_id': 1, 'title': '开单成功'}" ]
+        }, {
+          "name" : "产品挂单",
+          "uid" : "ad783bbd5f2fe1c3",
+          "parentUid" : "7c125b7a529be43b75bf6cf743ada831",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373904,
+            "stop" : 1594708373904,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'mobile': '13141219919', 'expected': '待付款', 'case_id': 1, 'title': '挂单成功'}" ]
+        } ],
+        "uid" : "7c125b7a529be43b75bf6cf743ada831"
+      } ],
+      "uid" : "7e7ccd8e771a1bd844ee5158ebac757b"
+    }, {
+      "name" : "test_overview",
+      "children" : [ {
+        "name" : "TestOverview",
+        "children" : [ {
+          "name" : "快速开单",
+          "uid" : "fb8c2471f9332fdc",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373907,
+            "stop" : 1594708373907,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "新增预约",
+          "uid" : "ca5375278307b00f",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373909,
+            "stop" : 1594708373909,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "新增会员",
+          "uid" : "23098aec6c8c878f",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373911,
+            "stop" : 1594708373911,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "新增潜客",
+          "uid" : "81ec75e2f7e98f12",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373914,
+            "stop" : 1594708373914,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "预约单-待付款",
+          "uid" : "95ac9059161c271d",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373916,
+            "stop" : 1594708373916,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "预约单-待服务",
+          "uid" : "7fcdc9e46d01215a",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373919,
+            "stop" : 1594708373919,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}" ]
+        }, {
+          "name" : "预约单-待分配",
+          "uid" : "484304a71afaf859",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373921,
+            "stop" : 1594708373921,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}" ]
+        }, {
+          "name" : "新增潜客",
+          "uid" : "32fef78fcaeb3828",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373924,
+            "stop" : 1594708373924,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}" ]
+        }, {
+          "name" : "新增潜客",
+          "uid" : "8f014d42c5159f38",
+          "parentUid" : "2264d55c3d62d50312ed9ef0f4fae2d9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373926,
+            "stop" : 1594708373926,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'quickOrder': '收银台', 'newBooking': '新增预约', 'newMembers': '新增会员', 'newPotentialCustomer': '新增潜客', 'listPaying': '预约列表', 'orderPaying': '订单列表', 'potentialCustomer': '潜客列表'}" ]
+        } ],
+        "uid" : "2264d55c3d62d50312ed9ef0f4fae2d9"
+      } ],
+      "uid" : "55cb482377a5fd678c8e201799168258"
+    }, {
+      "name" : "test_potential",
+      "children" : [ {
+        "name" : "TestPotential",
+        "children" : [ {
+          "name" : "已注册会员重复新增潜客",
+          "uid" : "d8e918c5d677d264",
+          "parentUid" : "f449e371d8681025365e7eaa882e60a5",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373928,
+            "stop" : 1594708373928,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'mobile': '13141219919', 'expected': '该手机号已成为会员'}" ]
+        }, {
+          "name" : "新增潜客",
+          "uid" : "e7bcf2bd23b7be08",
+          "parentUid" : "f449e371d8681025365e7eaa882e60a5",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373930,
+            "stop" : 1594708373930,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "潜客转为会员",
+          "uid" : "7e9bdecdff248a9d",
+          "parentUid" : "f449e371d8681025365e7eaa882e60a5",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373932,
+            "stop" : 1594708373932,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "设置潜客参数",
+          "uid" : "e5673c1f2ead1558",
+          "parentUid" : "f449e371d8681025365e7eaa882e60a5",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1594708373935,
+            "stop" : 1594708373935,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f449e371d8681025365e7eaa882e60a5"
+      } ],
+      "uid" : "85f250a05d052b50eab177390b90ea82"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ]
+}

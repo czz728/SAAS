@@ -1,0 +1,99 @@
+{
+  "uid" : "e3b432478277f983",
+  "name" : "设置潜客参数",
+  "fullName" : "testcases.test_appointment.TestAppointment#test_newAppointment",
+  "historyId" : "ed92b9b5810d1fff46a889c1eabb7b6a",
+  "time" : {
+    "start" : 1594708344643,
+    "stop" : 1594708344643,
+    "duration" : 0
+  },
+  "description" : "step1:初始化页面",
+  "descriptionHtml" : "<p>step1:初始化页面</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('testcases\\\\test_appointment.py', 49, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1594708344647,
+      "stop" : 1594708372256,
+      "duration" : 27609
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1594708373936,
+      "stop" : 1594708373936,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "预约页面"
+  }, {
+    "name" : "story",
+    "value" : "预约列表"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_appointment"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAppointment"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HB8BF3D"
+  }, {
+    "name" : "thread",
+    "value" : "13508-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_appointment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "e3b432478277f983.json",
+  "parameterValues" : [ ]
+}
